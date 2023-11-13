@@ -1,0 +1,1 @@
+/Users/JXS4VD6/.oh-my-zsh/custom/themes/spaceship-prompt/spaceship.zsh-theme
